@@ -1,5 +1,5 @@
 dataformCoreVersion: 3.0.8
-defaultProject: winter-dataform
+defaultProject: gchami-datalineage
 defaultLocation: us-central1
 defaultDataset: tmdb
 defaultAssertionDataset: tmdb_assertions
