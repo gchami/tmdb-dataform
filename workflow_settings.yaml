@@ -4,6 +4,6 @@ defaultLocation: us-central1
 defaultDataset: tmdb
 defaultAssertionDataset: tmdb_assertions
 vars:
-  LOAD_GCS_BUCKET: winter-data/tmdb
+  LOAD_GCS_BUCKET: gchami-datqa/tmdb
   STAGING_DATA: tmdb_staging
   TARGET_DATA: tmdb
